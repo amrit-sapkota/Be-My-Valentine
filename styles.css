@@ -28,6 +28,8 @@ body {
   font-size: 30px;
   margin-bottom: 20px;
   font-weight: bold;
+  user-select: none;
+  pointer-events: none;
 }
 
 .yesBtn,
