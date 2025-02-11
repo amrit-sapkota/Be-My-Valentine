@@ -32,8 +32,10 @@ This is a fun and interactive Valentine's Day project built using **HTML, CSS, a
 - **`favicon-32x32.png`** → Favicon for the webpage.
 - **`valentine.png`** → Open Graph image for better social media preview.
 
-## Live Demo
-To experience the interactive Valentine’s proposal, **open the `index.html` file** in a browser.
+## 💖 Live Demo  
+Experience the interactive Valentine’s proposal!  
+[👉 Click here to view the demo!](https://bemyvalentinewillyou.netlify.app/)  
+Feel free to share it with your loved ones! 💕
 
 ## Author
 **Amrit Sapkota**
