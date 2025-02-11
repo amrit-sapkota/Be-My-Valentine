@@ -17,11 +17,11 @@ This is a fun and interactive Valentine's Day project built using **HTML, CSS, a
 ## Setup Instructions
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/your-repo-url.git
+   git clone 
    ```
 2. **Navigate into the project directory:**
    ```sh
-   cd valentine-project
+   cd project name
    ```
 3. **Open `index.html` in your browser** to enjoy the experience!
 
