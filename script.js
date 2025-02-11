@@ -18,8 +18,8 @@ noButton.addEventListener("mouseover", function () {
 
 yesButton.addEventListener("click", function () {
   box.innerHTML = `
-     <div style="color:white;">
-            <h2 style="font-size:32px;">Yay!💖</h2>
+     <div style="color:black;">
+            <h2 style="font-size:32px; font-weight: bold;">Yay!💖</h2>
             <p style="font-size:20px;">You've made me the happiest person ever!</p>
             <div id="love"></div>
         </div>
