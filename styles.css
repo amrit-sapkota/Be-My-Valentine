@@ -16,7 +16,7 @@ body {
   border-radius: 20px;
   width: 300px;
   height: 250px;
-  background-image: url("https://amrit-sapkota.github.io/Be-My-Valentine/giphy.gif");
+  background-image: url("/giphy.gif");
   background-size: cover;
   background-position: center;
   background-blend-mode: saturation;
