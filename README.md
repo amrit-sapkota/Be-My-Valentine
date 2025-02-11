@@ -39,5 +39,5 @@ To experience the interactive Valentine’s proposal, **open the `index.html` fi
 **Amrit Sapkota**
 
 ## Disclaimer
-❌ ** Feel free to modify and experiment!** ❤️
+** Feel free to modify and experiment!** ❤️
 
