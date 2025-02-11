@@ -9,12 +9,18 @@ function getRandomScreenPosition() {
   return { randomInnerWidth, randomInnerHeight };
 }
 
-noButton.addEventListener("mouseover", function () {
+function moveNoButton() {
   const { randomInnerWidth, randomInnerHeight } = getRandomScreenPosition();
-  this.style.position = "fixed";
-  this.style.left = `${randomInnerWidth}px`;
-  this.style.top = `${randomInnerHeight}px`;
-});
+  noButton.style.position = "fixed";
+  noButton.style.left = `${randomInnerWidth}px`;
+  noButton.style.top = `${randomInnerHeight}px`;
+}
+
+if (window.innerWidth <= 768) {
+  noButton.addEventListener("touchstart", moveNoButton);
+} else {
+  noButton.addEventListener("mouseover", moveNoButton);
+}
 
 yesButton.addEventListener("click", function () {
   box.innerHTML = `
