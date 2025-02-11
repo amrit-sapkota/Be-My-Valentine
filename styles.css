@@ -55,10 +55,6 @@ body {
   transition: all 0.2s ease;
 }
 
-.noBtn:hover {
-  background-color: #700f26;
-  color: white;
-}
 .yesBtn:hover {
   background-color: #0a4d0e;
   color: white;
